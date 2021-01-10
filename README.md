@@ -1,10 +1,9 @@
 ![ProfessionalHeadshot](https://user-images.githubusercontent.com/77191762/104110545-c2a5cc00-527c-11eb-950d-5563d98de505.JPG)
 
-## Welcome to GitHub Pages
+### John Ushigome Professional Portfolio
 
 You can use the [editor on GitHub](https://github.com/jushigome/john-ushigome/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 
